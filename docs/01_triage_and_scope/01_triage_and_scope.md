@@ -19,7 +19,7 @@ After completing this exercise, you'll be able to:
 
 * Navigate the Defender XDR cross-layer incident and recognize how signal overload hides the real attack
 * Use standalone Security Copilot as a reasoning layer over Defender, Entra, Defender for Cloud (AI), and endpoint signals
-* Synthesize identity, email, endpoint, and data/AI signals into one cross-domain incident narrative
+* Synthesize identity, email/poisoning, AI, infrastructure, and endpoint signals into one cross-domain incident narrative
 * Extract the key entities and an initial timeline to carry into reconstruction
 
 ## Duration
