@@ -283,8 +283,8 @@
     "SourceIP": "102.89.42.17",
     "Action": "PromptInjectionAttempt",
     "Severity": "Medium",
-    "AzureResourceId": "/subscriptions/{SUBSCRIPTION}/resourceGroups/rg-zava-ai-prod/providers/Microsoft.CognitiveServices/accounts/refund-agent-prod",
-    "Details": "Attacker-crafted content in trusted-report.docx triggered prompt injection via Refund Agent grounding pipeline; 7 anomalous queries to refund-agent-prod observed; grounding storage now contains poisoned policy document"
+    "AzureResourceId": "/subscriptions/{SUBSCRIPTION}/resourceGroups/rg-soclab/providers/Microsoft.CognitiveServices/accounts/oai-soclab-v02",
+    "Details": "Attacker-crafted content in trusted-report.docx triggered prompt injection via Refund Agent grounding pipeline; 7 anomalous queries to oai-soclab-v02 observed; grounding storage now contains poisoned policy document"
   },
 
   {
