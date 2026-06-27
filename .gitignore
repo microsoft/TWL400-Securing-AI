@@ -156,3 +156,10 @@ cython_debug/
 
 # VS Code
 .vscode/
+
+# Jekyll build output and dependency lockfile
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
