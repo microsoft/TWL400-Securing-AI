@@ -19,7 +19,7 @@ This is the "from one chain to a complete, evidence-backed lifecycle" step. The 
 
 After completing this exercise, you'll be able to:
 
-* Trace the attack end to end across identity → AI → data → infrastructure → endpoint using unified Sentinel telemetry, the Defender for Cloud AI alert, and Defender for Identity
+* Trace the attack end to end across identity → email/poisoning → AI → infrastructure → endpoint using unified Sentinel telemetry, the Defender for Cloud AI alert, and Defender for Identity
 * Hunt the Sentinel-backed tables with KQL to place each of the five attack stages on the lifecycle and link them to the entities from Exercise 01
 * Reconstruct the lifecycle and bound each stage's blast radius
 * Identify system-level **failure points** — signals that were present (including a real AI-layer alert) but **uncorrelated and buried in the ~25-decoy noise**
@@ -32,6 +32,6 @@ After completing this exercise, you'll be able to:
 ## Tasks
 
 - Task 02.01 — [Hunt the unified Sentinel telemetry (KQL) and place each stage](02_01.html)
-- Task 02.02 — [Confirm impossible travel and lateral movement (Defender for Identity)](02_02.html)
+- Task 02.02 — [Confirm anonymous IP sign-in and lateral movement (Defender for Identity)](02_02.html)
 - Task 02.03 — [Mark detection-failure points and telemetry blind spots](02_03.html)
 - Task 02.04 — [Record systemic dependencies and conflicting signals](02_04.html)
