@@ -1,0 +1,24 @@
+title: TechLab Securing AI with Agent365
+description: This lab will guide you through the process of securing AI applications using Agent365, focusing on best practices and practical implementations.
+theme: just-the-docs
+
+aux_links:
+  "TechLab: Securing AI with Agent365": 
+    - "https://github.com/microsoft/TWL400-Securing-AI"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red
